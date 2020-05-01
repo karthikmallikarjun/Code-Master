@@ -1,4 +1,4 @@
-#Linear Regression Project
+# Linear Regression Project
 
 The data set contains data of an Ecommerce company based in New York City that sells clothing online but they also have in-store style 
 and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and 
